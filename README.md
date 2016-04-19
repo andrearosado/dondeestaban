@@ -1,2 +1,2 @@
 # dondeestaban
-Ejercicio práctico para aprender a trabajar con el tipo **"date"** de PostgreSQL.
+Ejercicio práctico para aprender a trabajar con el tipo ***"date"*** de PostgreSQL.
