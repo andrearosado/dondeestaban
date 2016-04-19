@@ -1,2 +1,2 @@
 # dondeestaban
-Ejercicio de ejemplo con fechas
+Ejercicio práctico para aprender a trabajar con el tipo "date" de PostgreSQL.
